@@ -1,0 +1,23 @@
+.App{
+  padding: 20px;
+}
+.cash{
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+}
+.around-btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px
+}
+.around-btn button{
+  font-size: 15px;
+  font-weight: 600;
+  border-radius: 5px;
+  margin-top: 20px;
+  padding: 5px 15px;
+  background-color: blue;
+  color: #FFF
+}
